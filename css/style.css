@@ -258,8 +258,7 @@ input[type="checkbox"]:checked ~ .header-menu-ul {
 
 .header-forms {
     display: flex;
-    justify-content: space-between;
-    
+    justify-content: space-between;    
 }
 
 .header-basket {
